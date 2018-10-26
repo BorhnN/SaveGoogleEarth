@@ -1,5 +1,5 @@
 SaveGoogleEarth is a AutoHotKey script to quickly save Google Earth Pro projects.
-
+<!---
 ## What it does?
 When you press `ctrl + s` on Google Earth Pro, it quickly
 
@@ -7,7 +7,7 @@ When you press `ctrl + s` on Google Earth Pro, it quickly
 1. Clicks on 'File' in Google Earth Pro window
 1. Clicks on 'Save'
 1. Clicks on 'Save My Places'
-1. Returns mouse pointer to previously saved location.
+1. Returns mouse pointer to previously saved location. --->
 
 
 ## Installation
@@ -20,7 +20,9 @@ If you don't want to install AutoHotKey just download the [compiled binary](Save
 
 ## Usage
 ### running
-Run the script. It should continue to run in the background. To save your places quickly on Google Earth Pro, press `ctrl + s`.
+Run the script. It should continue to run in the background.
+1. To save your places quickly on Google Earth Pro, press `ctrl + s`.
+1. You can press `d` instead of `ctrl + shift + g` to bring out "new polygon" window. 
 
 ### closing
 Find `H` icon in the tray area. Right click > Exit

@@ -8,3 +8,7 @@ Sleep, 100
 MouseMove,    300, 55
 MouseClick ,, 300, 100
 MouseMove, prevX, prevY
+
+#IfWinActive Google Earth Pro
+d::
+Send ^+g
