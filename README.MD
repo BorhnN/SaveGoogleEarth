@@ -30,7 +30,7 @@ Find `H` icon in the tray area. Right click > Exit
 ## Uninstall
 Delete the `ahk`/`exe` file.
 ## Licence
-Copyright (C) 2018  Borhan Uddin
+Copyright © 2018  Borhan Uddin
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
